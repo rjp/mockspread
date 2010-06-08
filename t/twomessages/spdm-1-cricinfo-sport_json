@@ -1,0 +1,101 @@
+--- 
+awayteam: England
+location: Dhaka
+title: "2nd Test:   Bangladesh v England at Dhaka  - Mar 20-24, 2010"
+infoline: England require another 4 runs with 9 wickets remaining
+rawscores: 
+- Bangladesh 419
+- England 496
+- Bangladesh 285
+- England 205/1
+teams: 
+- Bangladesh
+- England
+scores: 
+- - Bangladesh
+  - "419"
+  - 
+  - 
+  - 
+  - 
+  - 0
+- - England
+  - "496"
+  - 
+  - 
+  - 
+  - 
+  - 0
+- - Bangladesh
+  - "285"
+  - 
+  - 
+  - 
+  - 
+  - 0
+- - England
+  - "205"
+  - "1"
+  - 
+  - 
+  - 
+  - 0
+teamhash: 
+  England: England
+  Bangladesh: Bangladesh
+type: Logan Cup
+oldbats: 
+- AN Cook
+- KP Pietersen
+extra_info: []
+
+dates: Mar 20-24, 2010
+hometeam: Bangladesh
+bowlers: 
+- - 
+  - 
+- - 
+  - 
+teamscores: 
+  England: 
+  - - England
+    - "496"
+    - 
+    - 
+    - 
+    - 
+    - 0
+  - - England
+    - "205"
+    - "1"
+    - 
+    - 
+    - 
+    - 0
+  Bangladesh: 
+  - - Bangladesh
+    - "419"
+    - 
+    - 
+    - 
+    - 
+    - 0
+  - - Bangladesh
+    - "285"
+    - 
+    - 
+    - 
+    - 
+    - 0
+shortteams: 
+- BNG
+- ENG
+match: 2nd Test
+source: cricinfolive.rb
+batters: 
+- - AN Cook
+  - "105"
+  - "*"
+- - KP Pietersen
+  - "74"
+  - "*"
